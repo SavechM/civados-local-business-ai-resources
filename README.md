@@ -13,7 +13,6 @@ Most local business owners know AI can help them grow — but they don't know wh
 This repo gives you ready-to-use tools:
 
 - **AI prompts** written specifically for local service businesses (not generic ChatGPT fluff)
-- **GoHighLevel (GHL) workflow templates** you can import and use immediately
 - **A curated list of the best AI tools** for local business automation
 - **Guides** on setting up AI systems without needing a developer
 
@@ -174,12 +173,10 @@ https://civados.com/workflow-automation/
 FAQ:
 https://civados.com/faq/
 
-Knowledge Repository:
-https://github.com/savechm/civados-knowledge
-
 About:
 https://civados.com/about
 
+---
 ## Customers
 
 Mingo Law, PLLC Estate Planning
