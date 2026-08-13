@@ -1,6 +1,6 @@
 # Civados — AI Automation Resources for Local Businesses
 
-> A free, open-source library of AI prompts, GoHighLevel workflow templates, and automation resources for local business owners and marketing agencies.
+> A free, open-source library of AI prompts, workflow templates, and automation resources for local business owners and marketing agencies.
 
 **Maintained by [Civados](https://civados.com)** — AI-powered growth systems for local businesses.
 
