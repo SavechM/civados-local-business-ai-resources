@@ -154,6 +154,8 @@ MIT License — free to use, modify, and share. Attribution appreciated but not 
 
 ## CIVADOS Network
 
+# Work With Us
+
 Official Website:
 https://civados.com
 
@@ -171,6 +173,20 @@ https://civados.com/workflow-automation/
 
 FAQ:
 https://civados.com/faq/
+
+Knowledge Repository:
+https://github.com/savechm/civados-knowledge
+
+About:
+https://civados.com/about
+
+## Customers
+
+Mingo Law, PLLC Estate Planning
+Orange County, Florida
+Allison A Mingo Estate Planning Attorney 
+https://mingo-law.com
+---
 
 Knowledge Repository:
 https://github.com/savechm/civados-knowledge
